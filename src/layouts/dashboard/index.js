@@ -49,7 +49,7 @@ function Dashboard() {
               <ComplexStatisticsCard
                 color="dark"
                 icon="weekend"
-                title="Ticket Sales"
+                title="Sales"
                 count={281}
                 percentage={{
                   color: "success",
@@ -93,7 +93,7 @@ function Dashboard() {
               <ComplexStatisticsCard
                 color="primary"
                 icon="person_add"
-                title="ChatBot Interactions"
+                title="Engagement"
                 count="+200"
                 percentage={{
                   color: "success",
@@ -110,7 +110,7 @@ function Dashboard() {
               <MDBox mb={3}>
                 <ReportsBarChart
                   color="info"
-                  title="Visitor's Traffic"
+                  title="Traffic"
                   description="Weekly Stats"
                   date="campaign sent 2 days ago"
                   chart={reportsBarChartData}
@@ -136,7 +136,7 @@ function Dashboard() {
               <MDBox mb={4}>
                 <PieChart
                   color="dark"
-                  title="Popular Sections"
+                  title="Popular Orders"
                   description="Most visited sections this month"
                   date="just updated"
                   chart={sections}

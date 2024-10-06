@@ -59,7 +59,7 @@ const routes = [
   },
   {
     type: "collapse",
-    name: "Scan Tickets",
+    name: "Orders",
     key: "tables",
     icon: <Icon fontSize="small">table_view</Icon>,
     route: "/tables",
@@ -83,7 +83,7 @@ const routes = [
   },
   {
     type: "collapse",
-    name: "ChatBot Controls",
+    name: "Pricing Controls",
     key: "notifications",
     icon: <Icon fontSize="small">person</Icon>,
     route: "/notifications",
