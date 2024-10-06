@@ -77,7 +77,7 @@ function Projects() {
               done
             </Icon>
             <MDTypography variant="button" fontWeight="regular" color="text">
-             <strong>30 done</strong> this month
+              <strong>30 done</strong> this month
             </MDTypography>
           </MDBox>
         </MDBox>

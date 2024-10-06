@@ -323,8 +323,7 @@ function Configurator() {
                 rel="noreferrer"
                 color="dark"
               >
-                <TwitterIcon />
-                 ; Tweet
+                <TwitterIcon />; Tweet
               </MDButton>
             </MDBox>
             <MDButton
@@ -334,8 +333,7 @@ function Configurator() {
               rel="noreferrer"
               color="dark"
             >
-              <FacebookIcon />
-               ; Share
+              <FacebookIcon />; Share
             </MDButton>
           </MDBox>
         </MDBox>

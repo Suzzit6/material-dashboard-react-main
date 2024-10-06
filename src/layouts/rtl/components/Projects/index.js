@@ -75,7 +75,7 @@ function Projects() {
               done
             </Icon>
             <MDTypography variant="button" fontWeight="regular" color="text">
-               ;<strong>30 انتهى</strong> هذا الشهر
+              ;<strong>30 انتهى</strong> هذا الشهر
             </MDTypography>
           </MDBox>
         </MDBox>

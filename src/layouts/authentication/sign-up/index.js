@@ -73,7 +73,7 @@ function Cover() {
                 color="text"
                 sx={{ cursor: "pointer", userSelect: "none", ml: -1 }}
               >
-                 ; ;I agree the ;
+                ; ;I agree the ;
               </MDTypography>
               <MDTypography
                 component="a"

@@ -69,7 +69,7 @@ function Footer({ company, links }) {
         by
         <Link href={href} target="_blank">
           <MDTypography variant="button" fontWeight="medium">
-             ;{name} ;
+            ;{name} ;
           </MDTypography>
         </Link>
         for a better web.

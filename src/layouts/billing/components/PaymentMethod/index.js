@@ -43,7 +43,7 @@ function PaymentMethod() {
         </MDTypography>
         <MDButton variant="gradient" color="dark">
           <Icon sx={{ fontWeight: "bold" }}>add</Icon>
-           ;add new card
+          ;add new card
         </MDButton>
       </MDBox>
       <MDBox p={2}>
