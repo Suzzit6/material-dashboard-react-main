@@ -49,7 +49,7 @@ function Invoice({ date, id, price, noGutter }) {
         <MDBox display="flex" alignItems="center" lineHeight={1} ml={3} sx={{ cursor: "pointer" }}>
           <Icon fontSize="small">picture_as_pdf</Icon>
           <MDTypography variant="button" fontWeight="bold">
-            &nbsp;PDF
+             ;PDF
           </MDTypography>
         </MDBox>
       </MDBox>

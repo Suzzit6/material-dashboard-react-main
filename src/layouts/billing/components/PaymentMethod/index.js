@@ -43,7 +43,7 @@ function PaymentMethod() {
         </MDTypography>
         <MDButton variant="gradient" color="dark">
           <Icon sx={{ fontWeight: "bold" }}>add</Icon>
-          &nbsp;add new card
+           ;add new card
         </MDButton>
       </MDBox>
       <MDBox p={2}>
@@ -62,7 +62,7 @@ function PaymentMethod() {
             >
               <MDBox component="img" src={masterCardLogo} alt="master card" width="10%" mr={2} />
               <MDTypography variant="h6" fontWeight="medium">
-                ****&nbsp;&nbsp;****&nbsp;&nbsp;****&nbsp;&nbsp;7852
+                **** ; ;**** ; ;**** ; ;7852
               </MDTypography>
               <MDBox ml="auto" lineHeight={0} color={darkMode ? "white" : "dark"}>
                 <Tooltip title="Edit Card" placement="top">
@@ -87,7 +87,7 @@ function PaymentMethod() {
             >
               <MDBox component="img" src={visaLogo} alt="master card" width="10%" mr={2} />
               <MDTypography variant="h6" fontWeight="medium">
-                ****&nbsp;&nbsp;****&nbsp;&nbsp;****&nbsp;&nbsp;5248
+                **** ; ;**** ; ;**** ; ;5248
               </MDTypography>
               <MDBox ml="auto" lineHeight={0} color={darkMode ? "white" : "dark"}>
                 <Tooltip title="Edit Card" placement="top">

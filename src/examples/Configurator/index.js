@@ -324,7 +324,7 @@ function Configurator() {
                 color="dark"
               >
                 <TwitterIcon />
-                &nbsp; Tweet
+                 ; Tweet
               </MDButton>
             </MDBox>
             <MDButton
@@ -335,7 +335,7 @@ function Configurator() {
               color="dark"
             >
               <FacebookIcon />
-              &nbsp; Share
+               ; Share
             </MDButton>
           </MDBox>
         </MDBox>

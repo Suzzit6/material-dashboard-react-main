@@ -76,7 +76,6 @@ export default function data() {
     //   { Header: "budget", accessor: "budget", align: "center" },
     //   { Header: "completion", accessor: "completion", align: "center" },
     // ],
-
     // rows: [
     //   {
     //     companies: <Company image={logoXD} name="Material UI XD Version" />,

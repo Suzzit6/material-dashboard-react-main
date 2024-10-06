@@ -36,7 +36,7 @@ function OrdersOverview() {
             <MDTypography display="inline" variant="body2" verticalAlign="middle">
               <Icon sx={{ color: ({ palette: { success } }) => success.main }}>arrow_upward</Icon>
             </MDTypography>
-            &nbsp;
+             ;
             <MDTypography variant="button" color="text" fontWeight="medium">
               24%
             </MDTypography>{" "}

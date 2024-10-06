@@ -52,7 +52,7 @@ function DefaultNavbarLink({ icon, name, route, light }) {
         textTransform="capitalize"
         sx={{ width: "100%", lineHeight: 0 }}
       >
-        &nbsp;{name}
+         ;{name}
       </MDTypography>
     </MDBox>
   );
